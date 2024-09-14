@@ -14,4 +14,10 @@ This is a **Document Task Manager app** built using **React.js**. It allows user
 - Separation of Concerns: The app splits functionality into background and foreground components for better organization.
 
 
-## Demo
+## App Demo
+![docs-task-manager](https://github.com/user-attachments/assets/9222dbf6-d11f-439d-90be-c81c24b4cb24)
+
+
+## Drag and drop the cards
+![docs-task-manager2](https://github.com/user-attachments/assets/662fc567-60c4-4bf0-82e8-9cff61ea01fc)
+
